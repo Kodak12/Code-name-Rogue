@@ -29,7 +29,7 @@ namespace homework5
         }
 
         public double virialTrunc(double P, double T)
-        {
+        {   // implementation for SO2 because it the compound of interest at moment
             // calculates the molar volume using the
             // virail truncated EOS 
             // units are in SI
@@ -73,7 +73,7 @@ namespace homework5
     public class Implementation
     {
 
-        static void Main(string[] agrs)
+        static void Main(string[] args)
         {
             // Call functions defined in the namespace
 
