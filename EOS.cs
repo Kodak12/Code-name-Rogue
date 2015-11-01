@@ -1,5 +1,5 @@
 /*HOMEWORK 5
-AUTHOR: UME-UGWA CHUKWUBUIKEM
+AUTHOR: CHUK UME
 */
 using System;
 using System.Collections.Generic;
