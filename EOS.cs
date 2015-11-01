@@ -73,7 +73,7 @@ namespace homework5
     public class Implementation
     {
 
-        static void Main(string[] agrs)
+        static void Main(string[] args)
         {
             // Call functions defined in the namespace
 
